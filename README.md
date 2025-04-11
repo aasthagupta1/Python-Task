@@ -13,3 +13,9 @@ A Django-based web application for managing an online library system. Admins can
 
 🛡️ Admin-only access via Django admin interface
 
+Prerequisites
+Python 3.x
+
+Django 4.x+
+
+openpyxl or pandas (for Excel export)
